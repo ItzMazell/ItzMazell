@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mazell</h1>
-<h3 align="center">A full stack developer from The United States Of America</h3>
+<h3 align="center">A Lazy Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmazell&label=Profile%20views&color=0e75b6&style=flat" alt="itzmazell" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmazell" alt="itzmazell" /></a> </p>
 
-- 🔭 I’m currently working on **a mailing system**
+- 🔭 I’m currently working on **an open source fraud detection system in python**
 
-- 🌱 I’m currently learning **designing**
+- 🌱 I’m currently learning **to be a better programmer**
 
-- 🤝 I’m looking for help with **my mailing system**
+- 🤝 I’m looking for help with **optimizing my programs**
 
 - 💬 Ask me about **any programing projects**
 
